@@ -1,1 +1,2 @@
 # C-Users-pc-Downloads-SCommerceProject.ipynb
+The SCommerce project aims to perform exploratory data analysis on Sterling E-Commerce transaction data to uncover trends in customer behavior, product performance, and sales distribution across categories and regions. The analysis leverages Python-based visualization and data manipulation tools to detect patterns, handle missing values, and provide business insights that can drive strategic decision-making.
